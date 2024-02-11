@@ -1,0 +1,5 @@
+install opencv  and numpy go to documentation of opencv 
+        pip install opencv numpy 
+install a command to run create() function in lbph algorithm 
+        pip install opencv-contrib-python
+
